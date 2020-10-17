@@ -19,3 +19,11 @@ making another change to the file in order to push to github - ithink i got it
 4. git push
 
 editiing again to see if username is set
+ 
+# header 1
+## smaller header
+## smallest header
+
+*italics, this is an italics sentecnce*
+
+* bullet point
