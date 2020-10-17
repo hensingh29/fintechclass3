@@ -17,3 +17,5 @@ making another change to the file in order to push to github - ithink i got it
 3. git add --all
 3. git commit -m "comment"
 4. git push
+
+editiing again to see if username is set
