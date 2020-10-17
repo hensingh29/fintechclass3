@@ -33,7 +33,7 @@ editiing again to see if username is set
 time for a line break!
 ---
 
-'adding a code snippet now'
+`adding a code snippet now`
 
 # block quote
 > "we're doing fintech today"
