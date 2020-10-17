@@ -39,7 +39,7 @@ time for a line break!
 > "we're doing fintech today"
 
 #reference link
-[reference](singh,2013)
+[reference](https://bootcampspot.com/sessions)
 
 ### image link
 ![michigan image](https://news.umich.edu/wp-content/uploads/mc-image-cache/2020/07/u-m-state-of-michigan-surveying-coronavirus-survivors-to-inform-future-response-to-pandemic-michigan.jpg)
