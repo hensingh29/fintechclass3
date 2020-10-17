@@ -27,3 +27,5 @@ editiing again to see if username is set
 *italics, this is an italics sentecnce*
 
 * bullet point
+
+**im making a bold sentence with 2 stars**
