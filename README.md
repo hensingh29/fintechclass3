@@ -9,3 +9,4 @@ my current goal is to break into the tech field while leveraging my existing fin
 I learned Python my senior year of college and really enjoyed coding. I am hoping to find a career that is a blend of both technology and business.
 
 making an edit
+i think i got it this time!
