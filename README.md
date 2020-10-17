@@ -29,3 +29,17 @@ editiing again to see if username is set
 * bullet point
 
 **im making a bold sentence with 2 stars**
+
+time for a line break!
+---
+
+'adding a code snippet now'
+
+# block quote
+> "we're doing fintech today"
+
+#reference link
+[reference](singh,2013)
+
+### image link
+![michigan image](https://news.umich.edu/wp-content/uploads/mc-image-cache/2020/07/u-m-state-of-michigan-surveying-coronavirus-survivors-to-inform-future-response-to-pandemic-michigan.jpg)
