@@ -10,3 +10,10 @@ I learned Python my senior year of college and really enjoyed coding. I am hopin
 
 making an edit
 i think i got it this time!
+
+making another change to the file in order to push to github - ithink i got it
+1. go to desktop (cd desktop) then git clone followed by link
+2. code readme.md
+3. git add --all
+3. git commit -m "comment"
+4. git push
