@@ -32,7 +32,7 @@ editiing again to see if username is set
 
 time for a line break!
 ---
-
+# code snippet
 `adding a code snippet now`
 
 # block quote
