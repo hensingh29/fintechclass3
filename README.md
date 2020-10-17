@@ -22,7 +22,7 @@ editiing again to see if username is set
  
 # header 1
 ## smaller header
-## smallest header
+### smallest header
 
 *italics, this is an italics sentecnce*
 
